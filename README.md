@@ -1,6 +1,6 @@
 # Zero-Touch Multi-Region Azure Infrastructure
 
-<img width="1264" height="739" alt="Gemini_Generated_Image_4f42p4f42p4f42p4 (2)" src="https://github.com/user-attachments/assets/8eb2209f-c01c-453d-b5dc-b4927b006d06" />
+<img width="2000" height="1333" alt="Your Posts Reach 500 People  Your Comments Reach 50,000  (1)" src="https://github.com/user-attachments/assets/91bbb50f-ccfb-4296-a59a-7a494b998c99" />
 
 
 This repository provides a fully automated, Zero-Touch deployment framework for provisioning highly available, multi-region infrastructure on Microsoft Azure. By leveraging Infrastructure as Code (IaC) and CI/CD best practices, this project eliminates manual intervention, ensuring consistency and scalability across global regions.
