@@ -72,4 +72,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## ⚖️ License
 Distributed under the MIT License. See LICENSE for more information.
-<br> Maintained by HP04Harsh
+<br> Maintained by HP04Harsh | Gondia - 441601
